@@ -1,0 +1,1 @@
+{"Aimbot":true,"Aim Key":"QKeyboard","Auto Collect Gun":true,"Tracers":true,"ESP":true,"Aim Part":"Torso"}

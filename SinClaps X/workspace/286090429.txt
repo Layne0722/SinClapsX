@@ -1,0 +1,1 @@
+{"Aimbot":true,"Aim Key":"MouseButton2","Aim Part":"Head","ESP":true,"Tracers":true,"Show FOV":true,"Team Check":true}
